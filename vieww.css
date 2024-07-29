@@ -1,0 +1,73 @@
+.me{
+    width: 750px;
+    height: 750px;
+    background-color: #cfc7c7;
+    margin-top: 10%;
+    margin-left: 25%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+}
+header{
+    background-color: rgb(25, 69, 158);
+    width: 750px;
+    height: 150px;
+}
+.menu{
+    display: inline-block;
+    width: 300px;
+    height: 560px;
+    background-color:   #cfc7c7;
+
+}
+.menu1{
+    background-color: rgb(186, 19, 195);
+    width: 300px;
+    height: 100px;
+    margin-top: 4% ;
+    margin-bottom: 10px;
+
+}
+.menu2{
+    background-color:rgb(160, 9, 62);
+    width: 300px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+.menu3{
+    background-color:rgb(3, 63, 43);
+    width: 300px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+.penner{
+    background-color: rgb(118, 100, 73);
+    width: 450px;
+    height: 200px;
+    float: right;
+    position: relative;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.news{
+    background-color: #5fa3c3;
+    width: 210px;
+    height: 330px;
+    margin-top: -46%;
+    margin-left: 41%;
+    margin-bottom: 1%;
+}
+.todolist{
+    background-color:#5fa3c3;
+    width: 219px;
+    height: 330px;
+    margin-top: -45%;
+    margin-left: 70%;
+    margin-bottom: 1.4%;
+}
+
+footer{
+    background-color: rgba(7, 13, 1, 0.939);
+    width: 750px;
+    height: 100px;
+    clear: both;
+}
